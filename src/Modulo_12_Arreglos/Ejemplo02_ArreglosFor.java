@@ -1,6 +1,6 @@
 package Modulo_12_Arreglos;
 
-public class EjemploArreglosFor {
+public class Ejemplo02_ArreglosFor {
     public static void main(String[] args) {
 
     /*ARREGLOS CON ENTEROS*/

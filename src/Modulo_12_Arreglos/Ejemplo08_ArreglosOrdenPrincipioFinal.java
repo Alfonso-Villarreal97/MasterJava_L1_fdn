@@ -11,7 +11,7 @@
 */
 package Modulo_12_Arreglos;
 
-public class EjemploArreglosOrdenPrincipioFinal {
+public class Ejemplo08_ArreglosOrdenPrincipioFinal {
 
     public static void main(String[] args) {
         int[] numeros = new int[10];

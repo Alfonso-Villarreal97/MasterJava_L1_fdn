@@ -1,6 +1,6 @@
 package Modulo_12_Arreglos;
 
-public class EjemploArregloForBubbleSortNumeros {
+public class Ejemplo06_ArregloForBubbleSortNumeros {
     public static void main(String[] args) {
         /* Ordenamiento burbuja aplicado a números */
         int[] numeros = new int[4];

@@ -4,7 +4,7 @@
 * */
 package Modulo_12_Arreglos;
 
-public class EjempArregloForBubbleSortNormalyOptimizado {
+public class Ejemplo05_ArregloForBubbleSortNormalyOptimizado {
 
      public static void main(String[] args) {
         //Inicializar arreglo

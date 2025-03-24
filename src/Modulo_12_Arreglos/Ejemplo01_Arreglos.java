@@ -2,7 +2,7 @@ package Modulo_12_Arreglos;
 
 import java.util.Arrays;
 
-public class EjemploArreglos {
+public class Ejemplo01_Arreglos {
     public static void main(String[] args) {
 
     /*ARREGLOS CON ENTEROS*/

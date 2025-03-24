@@ -5,7 +5,7 @@
 
 package Modulo_12_Arreglos;
 
-public class EjemploArregloCombinados {
+public class Ejemplo09_ArregloCombinados {
     public static void main(String[] args) {
         int[] a,b,c;
         a = new int[9];

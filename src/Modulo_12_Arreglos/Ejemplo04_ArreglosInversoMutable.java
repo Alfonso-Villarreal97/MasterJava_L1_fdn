@@ -12,9 +12,8 @@
 package Modulo_12_Arreglos;
 
 import java.util.Arrays;
-import java.util.Collections;
 
-public class EjemploArreglosInversoMutable {
+public class Ejemplo04_ArreglosInversoMutable {
 
     // == Método para invertir una cadena creada por nosotros (Explícita)
     public static void arregloInverso(String[] arreglo){ /* Intercambiar valores */

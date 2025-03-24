@@ -1,6 +1,6 @@
 package Modulo_12_Arreglos;
 
-public class EjemploArreglosReutilizarBubbleSort {
+public class Ejemplo07_ArreglosReutilizarBubbleSort {
 
     /* Método sortBurbuja para ordenar cualquier arreglo */
     /* Espera como parámetro un arreglo de objetos, de esta manera no importa */

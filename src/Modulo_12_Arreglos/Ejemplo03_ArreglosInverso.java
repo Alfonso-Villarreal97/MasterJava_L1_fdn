@@ -1,6 +1,6 @@
 package Modulo_12_Arreglos;
 
-public class EjemploArreglosInverso {
+public class Ejemplo03_ArreglosInverso {
     public static void main(String[] args) {
 
     /*ARREGLO INVERSO CON STRING*/
